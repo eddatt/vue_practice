@@ -1,0 +1,33 @@
+---------------------------------------------------------------
+[ 2019-08-10T23:21:32+08:00 ] 0.0.0.0 GET localhost/vue_practice/server/public/index.php/index/section
+[运行时间：0.096342s] [吞吐率：10.38req/s] [内存消耗：2,480.90kb] [文件加载：40]
+[ info ] [ LANG ] C:\xampp\htdocs\vue_practice\server\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'section',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'sec-fetch-mode' => 'cors',
+  'origin' => 'http://localhost:8080',
+  'sec-fetch-site' => 'same-site',
+  'referer' => 'http://localhost:8080/user/welcome',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'en-US,en;q=0.9,zh-CN;q=0.8,zh-TW;q=0.7,zh;q=0.6',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\index\controller\Section->index[ C:\xampp\htdocs\vue_practice\server\application\index\controller\Section.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001359s ] mysql:host=127.0.0.1;port=3306;dbname=data;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `section` [ RunTime:0.017868s ]
+[ sql ] [ SQL ] SELECT * FROM `section` [ RunTime:0.000435s ]

@@ -1,0 +1,1416 @@
+---------------------------------------------------------------
+[ 2019-08-12T14:29:06+08:00 ] 0.0.0.0 GET localhost/vue_practice/server/public/index.php/index/section
+[运行时间：0.145867s] [吞吐率：6.86req/s] [内存消耗：2,480.90kb] [文件加载：40]
+[ info ] [ LANG ] C:\xampp\htdocs\vue_practice\server\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'section',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'sec-fetch-mode' => 'cors',
+  'origin' => 'http://localhost:8080',
+  'sec-fetch-site' => 'same-site',
+  'referer' => 'http://localhost:8080/user/welcome',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'en-US,en;q=0.9,zh-CN;q=0.8,zh-TW;q=0.7,zh;q=0.6',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\index\controller\Section->index[ C:\xampp\htdocs\vue_practice\server\application\index\controller\Section.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.007666s ] mysql:host=127.0.0.1;port=3306;dbname=data;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `section` [ RunTime:0.029329s ]
+[ sql ] [ SQL ] SELECT * FROM `section` [ RunTime:0.000821s ]
+---------------------------------------------------------------
+[ 2019-08-12T14:42:05+08:00 ] 0.0.0.0 GET localhost/vue_practice/server/public/index.php/index/section
+[运行时间：0.101520s] [吞吐率：9.85req/s] [内存消耗：2,480.91kb] [文件加载：40]
+[ info ] [ LANG ] C:\xampp\htdocs\vue_practice\server\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'section',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'sec-fetch-mode' => 'cors',
+  'origin' => 'http://localhost:8080',
+  'sec-fetch-site' => 'same-site',
+  'referer' => 'http://localhost:8080/user/welcome',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'en-US,en;q=0.9,zh-CN;q=0.8,zh-TW;q=0.7,zh;q=0.6',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\index\controller\Section->index[ C:\xampp\htdocs\vue_practice\server\application\index\controller\Section.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001223s ] mysql:host=127.0.0.1;port=3306;dbname=data;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `section` [ RunTime:0.026795s ]
+[ sql ] [ SQL ] SELECT * FROM `section` [ RunTime:0.000717s ]
+---------------------------------------------------------------
+[ 2019-08-12T14:43:13+08:00 ] 0.0.0.0 GET localhost/vue_practice/server/public/index.php/index/section
+[运行时间：0.139229s] [吞吐率：7.18req/s] [内存消耗：2,480.91kb] [文件加载：40]
+[ info ] [ LANG ] C:\xampp\htdocs\vue_practice\server\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'section',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'sec-fetch-mode' => 'cors',
+  'origin' => 'http://localhost:8080',
+  'sec-fetch-site' => 'same-site',
+  'referer' => 'http://localhost:8080/user/welcome',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'en-US,en;q=0.9,zh-CN;q=0.8,zh-TW;q=0.7,zh;q=0.6',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\index\controller\Section->index[ C:\xampp\htdocs\vue_practice\server\application\index\controller\Section.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000889s ] mysql:host=127.0.0.1;port=3306;dbname=data;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `section` [ RunTime:0.026392s ]
+[ sql ] [ SQL ] SELECT * FROM `section` [ RunTime:0.000606s ]
+---------------------------------------------------------------
+[ 2019-08-12T14:43:33+08:00 ] 0.0.0.0 POST localhost/vue_practice/server/public/index.php/index/base/login
+[运行时间：0.077208s] [吞吐率：12.95req/s] [内存消耗：2,691.42kb] [文件加载：40]
+[ info ] [ LANG ] C:\xampp\htdocs\vue_practice\server\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'base',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'content-length' => '9',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'sec-fetch-mode' => 'cors',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'origin' => 'http://localhost:8080',
+  'sec-fetch-site' => 'same-site',
+  'referer' => 'http://localhost:8080/user/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'en-US,en;q=0.9,zh-CN;q=0.8,zh-TW;q=0.7,zh;q=0.6',
+)
+[ info ] [ PARAM ] array (
+  'stu_id' => '01',
+)
+[ info ] [ RUN ] app\index\controller\Base->login[ C:\xampp\htdocs\vue_practice\server\application\index\controller\Base.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000872s ] mysql:host=127.0.0.1;port=3306;dbname=data;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.028824s ]
+[ sql ] [ SQL ] SELECT * FROM `user` WHERE  `stu_id` = '01' LIMIT 1 [ RunTime:0.002244s ]
+---------------------------------------------------------------
+[ 2019-08-12T14:43:34+08:00 ] 0.0.0.0 GET localhost/vue_practice/server/public/index.php/index/section
+[运行时间：0.075153s] [吞吐率：13.31req/s] [内存消耗：2,480.88kb] [文件加载：40]
+[ info ] [ LANG ] C:\xampp\htdocs\vue_practice\server\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'section',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'sec-fetch-mode' => 'cors',
+  'origin' => 'http://localhost:8080',
+  'sec-fetch-site' => 'same-site',
+  'referer' => 'http://localhost:8080/user/home',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'en-US,en;q=0.9,zh-CN;q=0.8,zh-TW;q=0.7,zh;q=0.6',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\index\controller\Section->index[ C:\xampp\htdocs\vue_practice\server\application\index\controller\Section.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000984s ] mysql:host=127.0.0.1;port=3306;dbname=data;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `section` [ RunTime:0.025079s ]
+[ sql ] [ SQL ] SELECT * FROM `section` [ RunTime:0.000507s ]
+---------------------------------------------------------------
+[ 2019-08-12T14:43:35+08:00 ] 0.0.0.0 GET localhost/vue_practice/server/public/index.php/index/project/readstu?id=01
+[运行时间：0.067234s] [吞吐率：14.87req/s] [内存消耗：2,488.95kb] [文件加载：40]
+[ info ] [ LANG ] C:\xampp\htdocs\vue_practice\server\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'project',
+    2 => 'readstu',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'sec-fetch-mode' => 'cors',
+  'origin' => 'http://localhost:8080',
+  'sec-fetch-site' => 'same-site',
+  'referer' => 'http://localhost:8080/user/home',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'en-US,en;q=0.9,zh-CN;q=0.8,zh-TW;q=0.7,zh;q=0.6',
+)
+[ info ] [ PARAM ] array (
+  'id' => '01',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\index\controller\Project->readstu[ C:\xampp\htdocs\vue_practice\server\application\index\controller\Project.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000702s ] mysql:host=127.0.0.1;port=3306;dbname=data;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `project` [ RunTime:0.026374s ]
+[ sql ] [ SQL ] SELECT * FROM `project` WHERE  `stu_id` = '01' [ RunTime:0.000447s ]
+---------------------------------------------------------------
+[ 2019-08-12T14:51:43+08:00 ] 0.0.0.0 GET localhost/vue_practice/server/public/index.php/index/section
+[运行时间：0.105821s] [吞吐率：9.45req/s] [内存消耗：2,480.95kb] [文件加载：40]
+[ info ] [ LANG ] C:\xampp\htdocs\vue_practice\server\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'section',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'sec-fetch-mode' => 'cors',
+  'origin' => 'http://localhost:8080',
+  'sec-fetch-site' => 'same-site',
+  'referer' => 'http://localhost:8080/user/home/EditProfile',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'en-US,en;q=0.9,zh-CN;q=0.8,zh-TW;q=0.7,zh;q=0.6',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\index\controller\Section->index[ C:\xampp\htdocs\vue_practice\server\application\index\controller\Section.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001456s ] mysql:host=127.0.0.1;port=3306;dbname=data;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `section` [ RunTime:0.029124s ]
+[ sql ] [ SQL ] SELECT * FROM `section` [ RunTime:0.000751s ]
+---------------------------------------------------------------
+[ 2019-08-12T14:51:44+08:00 ] 0.0.0.0 GET localhost/vue_practice/server/public/index.php/index/project/readstu?id=01
+[运行时间：0.117025s] [吞吐率：8.55req/s] [内存消耗：2,489.02kb] [文件加载：40]
+[ info ] [ LANG ] C:\xampp\htdocs\vue_practice\server\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'project',
+    2 => 'readstu',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'sec-fetch-mode' => 'cors',
+  'origin' => 'http://localhost:8080',
+  'sec-fetch-site' => 'same-site',
+  'referer' => 'http://localhost:8080/user/home/EditProfile',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'en-US,en;q=0.9,zh-CN;q=0.8,zh-TW;q=0.7,zh;q=0.6',
+)
+[ info ] [ PARAM ] array (
+  'id' => '01',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\index\controller\Project->readstu[ C:\xampp\htdocs\vue_practice\server\application\index\controller\Project.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000774s ] mysql:host=127.0.0.1;port=3306;dbname=data;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `project` [ RunTime:0.031874s ]
+[ sql ] [ SQL ] SELECT * FROM `project` WHERE  `stu_id` = '01' [ RunTime:0.000878s ]
+---------------------------------------------------------------
+[ 2019-08-12T14:51:46+08:00 ] 0.0.0.0 GET localhost/vue_practice/server/public/index.php/index/issue/readstui?id=2
+[运行时间：0.081042s] [吞吐率：12.34req/s] [内存消耗：2,484.43kb] [文件加载：40]
+[ info ] [ LANG ] C:\xampp\htdocs\vue_practice\server\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'issue',
+    2 => 'readstui',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'sec-fetch-mode' => 'cors',
+  'origin' => 'http://localhost:8080',
+  'sec-fetch-site' => 'same-site',
+  'referer' => 'http://localhost:8080/user/home/pdisplay',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'en-US,en;q=0.9,zh-CN;q=0.8,zh-TW;q=0.7,zh;q=0.6',
+)
+[ info ] [ PARAM ] array (
+  'id' => '2',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\index\controller\Issue->readstui[ C:\xampp\htdocs\vue_practice\server\application\index\controller\Issue.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001114s ] mysql:host=127.0.0.1;port=3306;dbname=data;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `issue` [ RunTime:0.023912s ]
+[ sql ] [ SQL ] SELECT * FROM `issue` WHERE  `pid` = 2 [ RunTime:0.000995s ]
+---------------------------------------------------------------
+[ 2019-08-12T14:54:32+08:00 ] 0.0.0.0 GET localhost/vue_practice/server/public/index.php/index/section
+[运行时间：0.257659s] [吞吐率：3.88req/s] [内存消耗：2,480.95kb] [文件加载：40]
+[ info ] [ LANG ] C:\xampp\htdocs\vue_practice\server\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'section',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'sec-fetch-mode' => 'cors',
+  'origin' => 'http://localhost:8080',
+  'sec-fetch-site' => 'same-site',
+  'referer' => 'http://localhost:8080/user/home/pdisplay',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'en-US,en;q=0.9,zh-CN;q=0.8,zh-TW;q=0.7,zh;q=0.6',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\index\controller\Section->index[ C:\xampp\htdocs\vue_practice\server\application\index\controller\Section.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011380s ] mysql:host=127.0.0.1;port=3306;dbname=data;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `section` [ RunTime:0.031526s ]
+[ sql ] [ SQL ] SELECT * FROM `section` [ RunTime:0.000704s ]
+---------------------------------------------------------------
+[ 2019-08-12T14:54:32+08:00 ] 0.0.0.0 GET localhost/vue_practice/server/public/index.php/index/project/readstu?id=01
+[运行时间：0.100965s] [吞吐率：9.90req/s] [内存消耗：2,489.02kb] [文件加载：40]
+[ info ] [ LANG ] C:\xampp\htdocs\vue_practice\server\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'project',
+    2 => 'readstu',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'sec-fetch-mode' => 'cors',
+  'origin' => 'http://localhost:8080',
+  'sec-fetch-site' => 'same-site',
+  'referer' => 'http://localhost:8080/user/home/pdisplay',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'en-US,en;q=0.9,zh-CN;q=0.8,zh-TW;q=0.7,zh;q=0.6',
+)
+[ info ] [ PARAM ] array (
+  'id' => '01',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\index\controller\Project->readstu[ C:\xampp\htdocs\vue_practice\server\application\index\controller\Project.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000952s ] mysql:host=127.0.0.1;port=3306;dbname=data;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `project` [ RunTime:0.026352s ]
+[ sql ] [ SQL ] SELECT * FROM `project` WHERE  `stu_id` = '01' [ RunTime:0.000784s ]
+---------------------------------------------------------------
+[ 2019-08-12T14:56:15+08:00 ] 0.0.0.0 GET localhost/vue_practice/server/public/index.php/index/issue/readstui?id=2
+[运行时间：0.083239s] [吞吐率：12.01req/s] [内存消耗：2,484.43kb] [文件加载：40]
+[ info ] [ LANG ] C:\xampp\htdocs\vue_practice\server\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'issue',
+    2 => 'readstui',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'sec-fetch-mode' => 'cors',
+  'origin' => 'http://localhost:8080',
+  'sec-fetch-site' => 'same-site',
+  'referer' => 'http://localhost:8080/user/home/pdisplay',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'en-US,en;q=0.9,zh-CN;q=0.8,zh-TW;q=0.7,zh;q=0.6',
+)
+[ info ] [ PARAM ] array (
+  'id' => '2',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\index\controller\Issue->readstui[ C:\xampp\htdocs\vue_practice\server\application\index\controller\Issue.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010858s ] mysql:host=127.0.0.1;port=3306;dbname=data;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `issue` [ RunTime:0.025241s ]
+[ sql ] [ SQL ] SELECT * FROM `issue` WHERE  `pid` = 2 [ RunTime:0.000523s ]
+---------------------------------------------------------------
+[ 2019-08-12T14:56:18+08:00 ] 0.0.0.0 GET localhost/vue_practice/server/public/index.php/index/issue/readstui?id=2
+[运行时间：0.067456s] [吞吐率：14.82req/s] [内存消耗：2,484.43kb] [文件加载：40]
+[ info ] [ LANG ] C:\xampp\htdocs\vue_practice\server\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'issue',
+    2 => 'readstui',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'sec-fetch-mode' => 'cors',
+  'origin' => 'http://localhost:8080',
+  'sec-fetch-site' => 'same-site',
+  'referer' => 'http://localhost:8080/user/home/pdisplay',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'en-US,en;q=0.9,zh-CN;q=0.8,zh-TW;q=0.7,zh;q=0.6',
+)
+[ info ] [ PARAM ] array (
+  'id' => '2',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\index\controller\Issue->readstui[ C:\xampp\htdocs\vue_practice\server\application\index\controller\Issue.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011109s ] mysql:host=127.0.0.1;port=3306;dbname=data;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `issue` [ RunTime:0.019585s ]
+[ sql ] [ SQL ] SELECT * FROM `issue` WHERE  `pid` = 2 [ RunTime:0.000492s ]
+---------------------------------------------------------------
+[ 2019-08-12T14:56:18+08:00 ] 0.0.0.0 GET localhost/vue_practice/server/public/index.php/index/issue/readstui?id=3
+[运行时间：0.058642s] [吞吐率：17.05req/s] [内存消耗：2,483.34kb] [文件加载：40]
+[ info ] [ LANG ] C:\xampp\htdocs\vue_practice\server\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'issue',
+    2 => 'readstui',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'sec-fetch-mode' => 'cors',
+  'origin' => 'http://localhost:8080',
+  'sec-fetch-site' => 'same-site',
+  'referer' => 'http://localhost:8080/user/home/pdisplay',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'en-US,en;q=0.9,zh-CN;q=0.8,zh-TW;q=0.7,zh;q=0.6',
+)
+[ info ] [ PARAM ] array (
+  'id' => '3',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\index\controller\Issue->readstui[ C:\xampp\htdocs\vue_practice\server\application\index\controller\Issue.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000858s ] mysql:host=127.0.0.1;port=3306;dbname=data;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `issue` [ RunTime:0.019503s ]
+[ sql ] [ SQL ] SELECT * FROM `issue` WHERE  `pid` = 3 [ RunTime:0.000573s ]
+---------------------------------------------------------------
+[ 2019-08-12T14:59:14+08:00 ] 0.0.0.0 GET localhost/vue_practice/server/public/index.php/index/section
+[运行时间：0.106986s] [吞吐率：9.35req/s] [内存消耗：2,480.95kb] [文件加载：40]
+[ info ] [ LANG ] C:\xampp\htdocs\vue_practice\server\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'section',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'sec-fetch-mode' => 'cors',
+  'origin' => 'http://localhost:8080',
+  'sec-fetch-site' => 'same-site',
+  'referer' => 'http://localhost:8080/user/home/EditProfile',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'en-US,en;q=0.9,zh-CN;q=0.8,zh-TW;q=0.7,zh;q=0.6',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\index\controller\Section->index[ C:\xampp\htdocs\vue_practice\server\application\index\controller\Section.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001140s ] mysql:host=127.0.0.1;port=3306;dbname=data;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `section` [ RunTime:0.027729s ]
+[ sql ] [ SQL ] SELECT * FROM `section` [ RunTime:0.001139s ]
+---------------------------------------------------------------
+[ 2019-08-12T14:59:14+08:00 ] 0.0.0.0 GET localhost/vue_practice/server/public/index.php/index/project/readstu?id=01
+[运行时间：0.112356s] [吞吐率：8.90req/s] [内存消耗：2,489.02kb] [文件加载：40]
+[ info ] [ LANG ] C:\xampp\htdocs\vue_practice\server\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'project',
+    2 => 'readstu',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'sec-fetch-mode' => 'cors',
+  'origin' => 'http://localhost:8080',
+  'sec-fetch-site' => 'same-site',
+  'referer' => 'http://localhost:8080/user/home/EditProfile',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'en-US,en;q=0.9,zh-CN;q=0.8,zh-TW;q=0.7,zh;q=0.6',
+)
+[ info ] [ PARAM ] array (
+  'id' => '01',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\index\controller\Project->readstu[ C:\xampp\htdocs\vue_practice\server\application\index\controller\Project.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000959s ] mysql:host=127.0.0.1;port=3306;dbname=data;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `project` [ RunTime:0.031740s ]
+[ sql ] [ SQL ] SELECT * FROM `project` WHERE  `stu_id` = '01' [ RunTime:0.000639s ]
+---------------------------------------------------------------
+[ 2019-08-12T14:59:37+08:00 ] 0.0.0.0 GET localhost/vue_practice/server/public/index.php/index/section
+[运行时间：0.092538s] [吞吐率：10.81req/s] [内存消耗：2,480.95kb] [文件加载：40]
+[ info ] [ LANG ] C:\xampp\htdocs\vue_practice\server\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'section',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'sec-fetch-mode' => 'cors',
+  'origin' => 'http://localhost:8080',
+  'sec-fetch-site' => 'same-site',
+  'referer' => 'http://localhost:8080/user/home/EditProfile',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'en-US,en;q=0.9,zh-CN;q=0.8,zh-TW;q=0.7,zh;q=0.6',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\index\controller\Section->index[ C:\xampp\htdocs\vue_practice\server\application\index\controller\Section.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001087s ] mysql:host=127.0.0.1;port=3306;dbname=data;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `section` [ RunTime:0.039938s ]
+[ sql ] [ SQL ] SELECT * FROM `section` [ RunTime:0.000611s ]
+---------------------------------------------------------------
+[ 2019-08-12T14:59:37+08:00 ] 0.0.0.0 GET localhost/vue_practice/server/public/index.php/index/project/readstu?id=01
+[运行时间：0.124680s] [吞吐率：8.02req/s] [内存消耗：2,489.02kb] [文件加载：40]
+[ info ] [ LANG ] C:\xampp\htdocs\vue_practice\server\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'project',
+    2 => 'readstu',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'sec-fetch-mode' => 'cors',
+  'origin' => 'http://localhost:8080',
+  'sec-fetch-site' => 'same-site',
+  'referer' => 'http://localhost:8080/user/home/EditProfile',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'en-US,en;q=0.9,zh-CN;q=0.8,zh-TW;q=0.7,zh;q=0.6',
+)
+[ info ] [ PARAM ] array (
+  'id' => '01',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\index\controller\Project->readstu[ C:\xampp\htdocs\vue_practice\server\application\index\controller\Project.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001781s ] mysql:host=127.0.0.1;port=3306;dbname=data;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `project` [ RunTime:0.048345s ]
+[ sql ] [ SQL ] SELECT * FROM `project` WHERE  `stu_id` = '01' [ RunTime:0.000891s ]
+---------------------------------------------------------------
+[ 2019-08-12T15:04:33+08:00 ] 0.0.0.0 GET localhost/vue_practice/server/public/index.php/index/section
+[运行时间：0.097414s] [吞吐率：10.27req/s] [内存消耗：2,480.91kb] [文件加载：40]
+[ info ] [ LANG ] C:\xampp\htdocs\vue_practice\server\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'section',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'sec-fetch-mode' => 'cors',
+  'origin' => 'http://localhost:8080',
+  'sec-fetch-site' => 'same-site',
+  'referer' => 'http://localhost:8080/user/welcome',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'en-US,en;q=0.9,zh-CN;q=0.8,zh-TW;q=0.7,zh;q=0.6',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\index\controller\Section->index[ C:\xampp\htdocs\vue_practice\server\application\index\controller\Section.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011239s ] mysql:host=127.0.0.1;port=3306;dbname=data;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `section` [ RunTime:0.025587s ]
+[ sql ] [ SQL ] SELECT * FROM `section` [ RunTime:0.000688s ]
+---------------------------------------------------------------
+[ 2019-08-12T15:04:38+08:00 ] 0.0.0.0 GET localhost/vue_practice/server/public/index.php/index/section
+[运行时间：0.092603s] [吞吐率：10.80req/s] [内存消耗：2,480.91kb] [文件加载：40]
+[ info ] [ LANG ] C:\xampp\htdocs\vue_practice\server\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'section',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'sec-fetch-mode' => 'cors',
+  'origin' => 'http://localhost:8080',
+  'sec-fetch-site' => 'same-site',
+  'referer' => 'http://localhost:8080/user/welcome',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'en-US,en;q=0.9,zh-CN;q=0.8,zh-TW;q=0.7,zh;q=0.6',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\index\controller\Section->index[ C:\xampp\htdocs\vue_practice\server\application\index\controller\Section.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002450s ] mysql:host=127.0.0.1;port=3306;dbname=data;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `section` [ RunTime:0.022089s ]
+[ sql ] [ SQL ] SELECT * FROM `section` [ RunTime:0.001891s ]
+---------------------------------------------------------------
+[ 2019-08-12T15:04:43+08:00 ] 0.0.0.0 GET localhost/vue_practice/server/public/index.php/index/section
+[运行时间：0.096160s] [吞吐率：10.40req/s] [内存消耗：2,480.91kb] [文件加载：40]
+[ info ] [ LANG ] C:\xampp\htdocs\vue_practice\server\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'section',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'sec-fetch-mode' => 'cors',
+  'origin' => 'http://localhost:8080',
+  'sec-fetch-site' => 'same-site',
+  'referer' => 'http://localhost:8080/user/welcome',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'en-US,en;q=0.9,zh-CN;q=0.8,zh-TW;q=0.7,zh;q=0.6',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\index\controller\Section->index[ C:\xampp\htdocs\vue_practice\server\application\index\controller\Section.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001444s ] mysql:host=127.0.0.1;port=3306;dbname=data;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `section` [ RunTime:0.027663s ]
+[ sql ] [ SQL ] SELECT * FROM `section` [ RunTime:0.000904s ]
+---------------------------------------------------------------
+[ 2019-08-12T15:06:16+08:00 ] 0.0.0.0 POST localhost/vue_practice/server/public/index.php/index/base/adminlogin
+[运行时间：0.121760s] [吞吐率：8.21req/s] [内存消耗：2,468.38kb] [文件加载：40]
+[ info ] [ LANG ] C:\xampp\htdocs\vue_practice\server\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'base',
+    2 => 'adminlogin',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'content-length' => '32',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'sec-fetch-mode' => 'cors',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'origin' => 'http://localhost:8080',
+  'sec-fetch-site' => 'same-site',
+  'referer' => 'http://localhost:8080/admin/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'en-US,en;q=0.9,zh-CN;q=0.8,zh-TW;q=0.7,zh;q=0.6',
+)
+[ info ] [ PARAM ] array (
+  'admin_name' => 'admin',
+  'password' => '111111',
+)
+[ info ] [ RUN ] app\index\controller\Base->adminlogin[ C:\xampp\htdocs\vue_practice\server\application\index\controller\Base.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000773s ] mysql:host=127.0.0.1;port=3306;dbname=data;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `admin` [ RunTime:0.033217s ]
+[ sql ] [ SQL ] SELECT * FROM `admin` WHERE  `admin_name` = 'admin'  AND `password` = '111111' LIMIT 1 [ RunTime:0.000582s ]
+---------------------------------------------------------------
+[ 2019-08-12T15:06:17+08:00 ] 0.0.0.0 GET localhost/vue_practice/server/public/index.php/index/section
+[运行时间：0.081551s] [吞吐率：12.26req/s] [内存消耗：2,480.91kb] [文件加载：40]
+[ info ] [ LANG ] C:\xampp\htdocs\vue_practice\server\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'section',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'sec-fetch-mode' => 'cors',
+  'origin' => 'http://localhost:8080',
+  'sec-fetch-site' => 'same-site',
+  'referer' => 'http://localhost:8080/admin/home',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'en-US,en;q=0.9,zh-CN;q=0.8,zh-TW;q=0.7,zh;q=0.6',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\index\controller\Section->index[ C:\xampp\htdocs\vue_practice\server\application\index\controller\Section.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000850s ] mysql:host=127.0.0.1;port=3306;dbname=data;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `section` [ RunTime:0.027383s ]
+[ sql ] [ SQL ] SELECT * FROM `section` [ RunTime:0.001127s ]
+---------------------------------------------------------------
+[ 2019-08-12T15:07:01+08:00 ] 0.0.0.0 GET localhost/vue_practice/server/public/index.php/index/section
+[运行时间：0.076734s] [吞吐率：13.03req/s] [内存消耗：2,480.91kb] [文件加载：40]
+[ info ] [ LANG ] C:\xampp\htdocs\vue_practice\server\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'section',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'sec-fetch-mode' => 'cors',
+  'origin' => 'http://localhost:8080',
+  'sec-fetch-site' => 'same-site',
+  'referer' => 'http://localhost:8080/user/welcome',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'en-US,en;q=0.9,zh-CN;q=0.8,zh-TW;q=0.7,zh;q=0.6',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\index\controller\Section->index[ C:\xampp\htdocs\vue_practice\server\application\index\controller\Section.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000784s ] mysql:host=127.0.0.1;port=3306;dbname=data;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `section` [ RunTime:0.022248s ]
+[ sql ] [ SQL ] SELECT * FROM `section` [ RunTime:0.000693s ]
+---------------------------------------------------------------
+[ 2019-08-12T15:07:05+08:00 ] 0.0.0.0 POST localhost/vue_practice/server/public/index.php/index/base/adminlogin
+[运行时间：0.092571s] [吞吐率：10.80req/s] [内存消耗：2,468.38kb] [文件加载：40]
+[ info ] [ LANG ] C:\xampp\htdocs\vue_practice\server\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'base',
+    2 => 'adminlogin',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'content-length' => '32',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'sec-fetch-mode' => 'cors',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'origin' => 'http://localhost:8080',
+  'sec-fetch-site' => 'same-site',
+  'referer' => 'http://localhost:8080/admin/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'en-US,en;q=0.9,zh-CN;q=0.8,zh-TW;q=0.7,zh;q=0.6',
+)
+[ info ] [ PARAM ] array (
+  'admin_name' => 'admin',
+  'password' => '111111',
+)
+[ info ] [ RUN ] app\index\controller\Base->adminlogin[ C:\xampp\htdocs\vue_practice\server\application\index\controller\Base.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001002s ] mysql:host=127.0.0.1;port=3306;dbname=data;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `admin` [ RunTime:0.033348s ]
+[ sql ] [ SQL ] SELECT * FROM `admin` WHERE  `admin_name` = 'admin'  AND `password` = '111111' LIMIT 1 [ RunTime:0.000655s ]
+---------------------------------------------------------------
+[ 2019-08-12T15:07:07+08:00 ] 0.0.0.0 GET localhost/vue_practice/server/public/index.php/index/section
+[运行时间：0.074889s] [吞吐率：13.35req/s] [内存消耗：2,480.91kb] [文件加载：40]
+[ info ] [ LANG ] C:\xampp\htdocs\vue_practice\server\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'section',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'sec-fetch-mode' => 'cors',
+  'origin' => 'http://localhost:8080',
+  'sec-fetch-site' => 'same-site',
+  'referer' => 'http://localhost:8080/admin/home',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'en-US,en;q=0.9,zh-CN;q=0.8,zh-TW;q=0.7,zh;q=0.6',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\index\controller\Section->index[ C:\xampp\htdocs\vue_practice\server\application\index\controller\Section.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000742s ] mysql:host=127.0.0.1;port=3306;dbname=data;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `section` [ RunTime:0.029662s ]
+[ sql ] [ SQL ] SELECT * FROM `section` [ RunTime:0.000530s ]
+---------------------------------------------------------------
+[ 2019-08-12T15:07:59+08:00 ] 0.0.0.0 GET localhost/vue_practice/server/public/index.php/index/user/getNationData
+[运行时间：0.123615s] [吞吐率：8.09req/s] [内存消耗：2,536.70kb] [文件加载：41]
+[ info ] [ LANG ] C:\xampp\htdocs\vue_practice\server\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'user',
+    2 => 'getNationData',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'sec-fetch-mode' => 'cors',
+  'origin' => 'http://localhost:8080',
+  'sec-fetch-site' => 'same-site',
+  'referer' => 'http://localhost:8080/admin/home/chart',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'en-US,en;q=0.9,zh-CN;q=0.8,zh-TW;q=0.7,zh;q=0.6',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\index\controller\User->getNationData[ C:\xampp\htdocs\vue_practice\server\application\index\controller\User.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001249s ] mysql:host=127.0.0.1;port=3306;dbname=data;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.022187s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '汉族' LIMIT 1 [ RunTime:0.000560s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '满族' LIMIT 1 [ RunTime:0.000368s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '蒙古族' LIMIT 1 [ RunTime:0.000344s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '回族' LIMIT 1 [ RunTime:0.000392s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '藏族' LIMIT 1 [ RunTime:0.000468s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '维吾尔族' LIMIT 1 [ RunTime:0.000411s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '苗族' LIMIT 1 [ RunTime:0.000667s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '彝族' LIMIT 1 [ RunTime:0.000676s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '壮族' LIMIT 1 [ RunTime:0.000612s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '布依族' LIMIT 1 [ RunTime:0.000516s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '侗族' LIMIT 1 [ RunTime:0.001138s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '瑶族' LIMIT 1 [ RunTime:0.000374s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '白族' LIMIT 1 [ RunTime:0.000316s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '土家族' LIMIT 1 [ RunTime:0.000391s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '哈尼族' LIMIT 1 [ RunTime:0.000363s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '哈萨克族' LIMIT 1 [ RunTime:0.000339s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '傣族' LIMIT 1 [ RunTime:0.000334s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '黎族' LIMIT 1 [ RunTime:0.000326s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '傈僳族' LIMIT 1 [ RunTime:0.000454s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '佤族' LIMIT 1 [ RunTime:0.000518s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '畲族' LIMIT 1 [ RunTime:0.000453s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '高山族' LIMIT 1 [ RunTime:0.000329s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '拉祜族' LIMIT 1 [ RunTime:0.000343s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '水族' LIMIT 1 [ RunTime:0.000325s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '东乡族' LIMIT 1 [ RunTime:0.000417s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '纳西族' LIMIT 1 [ RunTime:0.000427s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '景颇族' LIMIT 1 [ RunTime:0.000305s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '柯尔克孜族' LIMIT 1 [ RunTime:0.000319s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '土族' LIMIT 1 [ RunTime:0.000331s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '达斡尔族' LIMIT 1 [ RunTime:0.000322s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '仫佬族' LIMIT 1 [ RunTime:0.000327s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '羌族' LIMIT 1 [ RunTime:0.000325s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '布朗族' LIMIT 1 [ RunTime:0.000319s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '撒拉族' LIMIT 1 [ RunTime:0.000320s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '毛南族' LIMIT 1 [ RunTime:0.000317s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '仡佬族' LIMIT 1 [ RunTime:0.000320s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '锡伯族' LIMIT 1 [ RunTime:0.000365s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '阿昌族' LIMIT 1 [ RunTime:0.000447s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '普米族' LIMIT 1 [ RunTime:0.000352s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '朝鲜族' LIMIT 1 [ RunTime:0.000328s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '塔吉克族' LIMIT 1 [ RunTime:0.000308s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '怒族' LIMIT 1 [ RunTime:0.000322s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '乌孜别克族' LIMIT 1 [ RunTime:0.000331s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '俄罗斯族' LIMIT 1 [ RunTime:0.000353s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '鄂温克族' LIMIT 1 [ RunTime:0.000447s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '德昂族' LIMIT 1 [ RunTime:0.000369s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '保安族' LIMIT 1 [ RunTime:0.000336s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '裕固族' LIMIT 1 [ RunTime:0.000323s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '京族' LIMIT 1 [ RunTime:0.000324s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '塔塔尔族' LIMIT 1 [ RunTime:0.000393s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '独龙族' LIMIT 1 [ RunTime:0.000473s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '鄂伦春族' LIMIT 1 [ RunTime:0.000448s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '赫哲族' LIMIT 1 [ RunTime:0.000389s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '门巴族' LIMIT 1 [ RunTime:0.000366s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '珞巴族' LIMIT 1 [ RunTime:0.000334s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '基诺族' LIMIT 1 [ RunTime:0.000309s ]
+---------------------------------------------------------------
+[ 2019-08-12T15:08:00+08:00 ] 0.0.0.0 GET localhost/vue_practice/server/public/index.php/index/user/getGenderData
+[运行时间：0.080977s] [吞吐率：12.35req/s] [内存消耗：2,507.85kb] [文件加载：41]
+[ info ] [ LANG ] C:\xampp\htdocs\vue_practice\server\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'user',
+    2 => 'getGenderData',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'sec-fetch-mode' => 'cors',
+  'origin' => 'http://localhost:8080',
+  'sec-fetch-site' => 'same-site',
+  'referer' => 'http://localhost:8080/admin/home/chart',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'en-US,en;q=0.9,zh-CN;q=0.8,zh-TW;q=0.7,zh;q=0.6',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\index\controller\User->getGenderData[ C:\xampp\htdocs\vue_practice\server\application\index\controller\User.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000682s ] mysql:host=127.0.0.1;port=3306;dbname=data;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.024059s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `gender` = 'Male' LIMIT 1 [ RunTime:0.000634s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `gender` = 'Female' LIMIT 1 [ RunTime:0.001084s ]
+---------------------------------------------------------------
+[ 2019-08-12T15:08:00+08:00 ] 0.0.0.0 GET localhost/vue_practice/server/public/index.php/index/user/getPoliticalData
+[运行时间：0.120443s] [吞吐率：8.30req/s] [内存消耗：2,513.58kb] [文件加载：41]
+[ info ] [ LANG ] C:\xampp\htdocs\vue_practice\server\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'user',
+    2 => 'getPoliticalData',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'sec-fetch-mode' => 'cors',
+  'origin' => 'http://localhost:8080',
+  'sec-fetch-site' => 'same-site',
+  'referer' => 'http://localhost:8080/admin/home/chart',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'en-US,en;q=0.9,zh-CN;q=0.8,zh-TW;q=0.7,zh;q=0.6',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\index\controller\User->getPoliticalData[ C:\xampp\htdocs\vue_practice\server\application\index\controller\User.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000891s ] mysql:host=127.0.0.1;port=3306;dbname=data;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.026935s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `political` = '中共党员' LIMIT 1 [ RunTime:0.000801s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `political` = '中共预备党员' LIMIT 1 [ RunTime:0.000698s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `political` = '共青团员' LIMIT 1 [ RunTime:0.000675s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `political` = '民革党员' LIMIT 1 [ RunTime:0.000781s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `political` = '民盟盟员' LIMIT 1 [ RunTime:0.000649s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `political` = '民建会员' LIMIT 1 [ RunTime:0.000740s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `political` = '民进会员' LIMIT 1 [ RunTime:0.000683s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `political` = '农工党党员' LIMIT 1 [ RunTime:0.000728s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `political` = '致公党党员' LIMIT 1 [ RunTime:0.001175s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `political` = '九三学社社员' LIMIT 1 [ RunTime:0.000890s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `political` = '台盟盟员' LIMIT 1 [ RunTime:0.002361s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `political` = '无党派人士' LIMIT 1 [ RunTime:0.000884s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `political` = '群众' LIMIT 1 [ RunTime:0.000606s ]
+---------------------------------------------------------------
+[ 2019-08-12T15:12:41+08:00 ] 0.0.0.0 GET localhost/vue_practice/server/public/index.php/index/project/readsec?id=1
+[运行时间：0.149142s] [吞吐率：6.71req/s] [内存消耗：2,488.78kb] [文件加载：40]
+[ info ] [ LANG ] C:\xampp\htdocs\vue_practice\server\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'project',
+    2 => 'readsec',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'sec-fetch-mode' => 'cors',
+  'origin' => 'http://localhost:8080',
+  'sec-fetch-site' => 'same-site',
+  'referer' => 'http://localhost:8080/admin/home/newuser',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'en-US,en;q=0.9,zh-CN;q=0.8,zh-TW;q=0.7,zh;q=0.6',
+)
+[ info ] [ PARAM ] array (
+  'id' => '1',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\index\controller\Project->readsec[ C:\xampp\htdocs\vue_practice\server\application\index\controller\Project.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010751s ] mysql:host=127.0.0.1;port=3306;dbname=data;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `project` [ RunTime:0.022499s ]
+[ sql ] [ SQL ] SELECT * FROM `project` WHERE  `sid` = 1 [ RunTime:0.000462s ]
+---------------------------------------------------------------
+[ 2019-08-12T15:12:42+08:00 ] 0.0.0.0 GET localhost/vue_practice/server/public/index.php/index/project/readsec?id=2
+[运行时间：0.057361s] [吞吐率：17.43req/s] [内存消耗：2,488.09kb] [文件加载：40]
+[ info ] [ LANG ] C:\xampp\htdocs\vue_practice\server\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'project',
+    2 => 'readsec',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'sec-fetch-mode' => 'cors',
+  'origin' => 'http://localhost:8080',
+  'sec-fetch-site' => 'same-site',
+  'referer' => 'http://localhost:8080/admin/home/pdisplay',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'en-US,en;q=0.9,zh-CN;q=0.8,zh-TW;q=0.7,zh;q=0.6',
+)
+[ info ] [ PARAM ] array (
+  'id' => '2',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\index\controller\Project->readsec[ C:\xampp\htdocs\vue_practice\server\application\index\controller\Project.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000778s ] mysql:host=127.0.0.1;port=3306;dbname=data;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `project` [ RunTime:0.021757s ]
+[ sql ] [ SQL ] SELECT * FROM `project` WHERE  `sid` = 2 [ RunTime:0.000625s ]
+---------------------------------------------------------------
+[ 2019-08-12T15:12:44+08:00 ] 0.0.0.0 GET localhost/vue_practice/server/public/index.php/index/project/readsec?id=3
+[运行时间：0.055987s] [吞吐率：17.86req/s] [内存消耗：2,486.53kb] [文件加载：40]
+[ info ] [ LANG ] C:\xampp\htdocs\vue_practice\server\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'project',
+    2 => 'readsec',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'sec-fetch-mode' => 'cors',
+  'origin' => 'http://localhost:8080',
+  'sec-fetch-site' => 'same-site',
+  'referer' => 'http://localhost:8080/admin/home/pdisplay',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'en-US,en;q=0.9,zh-CN;q=0.8,zh-TW;q=0.7,zh;q=0.6',
+)
+[ info ] [ PARAM ] array (
+  'id' => '3',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\index\controller\Project->readsec[ C:\xampp\htdocs\vue_practice\server\application\index\controller\Project.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000796s ] mysql:host=127.0.0.1;port=3306;dbname=data;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `project` [ RunTime:0.022259s ]
+[ sql ] [ SQL ] SELECT * FROM `project` WHERE  `sid` = 3 [ RunTime:0.000801s ]
+---------------------------------------------------------------
+[ 2019-08-12T15:12:45+08:00 ] 0.0.0.0 GET localhost/vue_practice/server/public/index.php/index/project/readsec?id=1
+[运行时间：0.070434s] [吞吐率：14.20req/s] [内存消耗：2,488.78kb] [文件加载：40]
+[ info ] [ LANG ] C:\xampp\htdocs\vue_practice\server\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'project',
+    2 => 'readsec',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'sec-fetch-mode' => 'cors',
+  'origin' => 'http://localhost:8080',
+  'sec-fetch-site' => 'same-site',
+  'referer' => 'http://localhost:8080/admin/home/pdisplay',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'en-US,en;q=0.9,zh-CN;q=0.8,zh-TW;q=0.7,zh;q=0.6',
+)
+[ info ] [ PARAM ] array (
+  'id' => '1',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\index\controller\Project->readsec[ C:\xampp\htdocs\vue_practice\server\application\index\controller\Project.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000911s ] mysql:host=127.0.0.1;port=3306;dbname=data;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `project` [ RunTime:0.023508s ]
+[ sql ] [ SQL ] SELECT * FROM `project` WHERE  `sid` = 1 [ RunTime:0.000661s ]
+---------------------------------------------------------------
+[ 2019-08-12T15:12:57+08:00 ] 0.0.0.0 GET localhost/vue_practice/server/public/index.php/index/user/getNationData
+[运行时间：0.124579s] [吞吐率：8.03req/s] [内存消耗：2,536.70kb] [文件加载：41]
+[ info ] [ LANG ] C:\xampp\htdocs\vue_practice\server\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'user',
+    2 => 'getNationData',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'sec-fetch-mode' => 'cors',
+  'origin' => 'http://localhost:8080',
+  'sec-fetch-site' => 'same-site',
+  'referer' => 'http://localhost:8080/admin/home/chart',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'en-US,en;q=0.9,zh-CN;q=0.8,zh-TW;q=0.7,zh;q=0.6',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\index\controller\User->getNationData[ C:\xampp\htdocs\vue_practice\server\application\index\controller\User.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011080s ] mysql:host=127.0.0.1;port=3306;dbname=data;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.021057s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '汉族' LIMIT 1 [ RunTime:0.000540s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '满族' LIMIT 1 [ RunTime:0.000397s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '蒙古族' LIMIT 1 [ RunTime:0.000413s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '回族' LIMIT 1 [ RunTime:0.000436s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '藏族' LIMIT 1 [ RunTime:0.000479s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '维吾尔族' LIMIT 1 [ RunTime:0.000484s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '苗族' LIMIT 1 [ RunTime:0.000446s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '彝族' LIMIT 1 [ RunTime:0.000416s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '壮族' LIMIT 1 [ RunTime:0.000415s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '布依族' LIMIT 1 [ RunTime:0.000865s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '侗族' LIMIT 1 [ RunTime:0.002118s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '瑶族' LIMIT 1 [ RunTime:0.000582s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '白族' LIMIT 1 [ RunTime:0.000600s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '土家族' LIMIT 1 [ RunTime:0.000684s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '哈尼族' LIMIT 1 [ RunTime:0.000697s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '哈萨克族' LIMIT 1 [ RunTime:0.000360s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '傣族' LIMIT 1 [ RunTime:0.000344s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '黎族' LIMIT 1 [ RunTime:0.000495s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '傈僳族' LIMIT 1 [ RunTime:0.000406s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '佤族' LIMIT 1 [ RunTime:0.000556s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '畲族' LIMIT 1 [ RunTime:0.000447s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '高山族' LIMIT 1 [ RunTime:0.000589s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '拉祜族' LIMIT 1 [ RunTime:0.000543s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '水族' LIMIT 1 [ RunTime:0.000508s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '东乡族' LIMIT 1 [ RunTime:0.000549s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '纳西族' LIMIT 1 [ RunTime:0.000410s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '景颇族' LIMIT 1 [ RunTime:0.000582s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '柯尔克孜族' LIMIT 1 [ RunTime:0.000397s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '土族' LIMIT 1 [ RunTime:0.001182s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '达斡尔族' LIMIT 1 [ RunTime:0.003419s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '仫佬族' LIMIT 1 [ RunTime:0.000769s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '羌族' LIMIT 1 [ RunTime:0.000624s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '布朗族' LIMIT 1 [ RunTime:0.001046s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '撒拉族' LIMIT 1 [ RunTime:0.000791s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '毛南族' LIMIT 1 [ RunTime:0.000480s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '仡佬族' LIMIT 1 [ RunTime:0.000350s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '锡伯族' LIMIT 1 [ RunTime:0.000344s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '阿昌族' LIMIT 1 [ RunTime:0.000445s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '普米族' LIMIT 1 [ RunTime:0.000578s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '朝鲜族' LIMIT 1 [ RunTime:0.000555s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '塔吉克族' LIMIT 1 [ RunTime:0.000704s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '怒族' LIMIT 1 [ RunTime:0.000530s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '乌孜别克族' LIMIT 1 [ RunTime:0.001007s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '俄罗斯族' LIMIT 1 [ RunTime:0.000682s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '鄂温克族' LIMIT 1 [ RunTime:0.000397s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '德昂族' LIMIT 1 [ RunTime:0.000324s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '保安族' LIMIT 1 [ RunTime:0.000295s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '裕固族' LIMIT 1 [ RunTime:0.000612s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '京族' LIMIT 1 [ RunTime:0.001770s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '塔塔尔族' LIMIT 1 [ RunTime:0.000510s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '独龙族' LIMIT 1 [ RunTime:0.000475s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '鄂伦春族' LIMIT 1 [ RunTime:0.000543s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '赫哲族' LIMIT 1 [ RunTime:0.000598s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '门巴族' LIMIT 1 [ RunTime:0.000519s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '珞巴族' LIMIT 1 [ RunTime:0.000380s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `nation` = '基诺族' LIMIT 1 [ RunTime:0.000403s ]
+---------------------------------------------------------------
+[ 2019-08-12T15:12:57+08:00 ] 0.0.0.0 GET localhost/vue_practice/server/public/index.php/index/user/getGenderData
+[运行时间：0.072760s] [吞吐率：13.74req/s] [内存消耗：2,507.85kb] [文件加载：41]
+[ info ] [ LANG ] C:\xampp\htdocs\vue_practice\server\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'user',
+    2 => 'getGenderData',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'sec-fetch-mode' => 'cors',
+  'origin' => 'http://localhost:8080',
+  'sec-fetch-site' => 'same-site',
+  'referer' => 'http://localhost:8080/admin/home/chart',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'en-US,en;q=0.9,zh-CN;q=0.8,zh-TW;q=0.7,zh;q=0.6',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\index\controller\User->getGenderData[ C:\xampp\htdocs\vue_practice\server\application\index\controller\User.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000824s ] mysql:host=127.0.0.1;port=3306;dbname=data;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.021443s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `gender` = 'Male' LIMIT 1 [ RunTime:0.000420s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `gender` = 'Female' LIMIT 1 [ RunTime:0.000343s ]
+---------------------------------------------------------------
+[ 2019-08-12T15:12:57+08:00 ] 0.0.0.0 GET localhost/vue_practice/server/public/index.php/index/user/getPoliticalData
+[运行时间：0.093775s] [吞吐率：10.66req/s] [内存消耗：2,513.58kb] [文件加载：41]
+[ info ] [ LANG ] C:\xampp\htdocs\vue_practice\server\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'user',
+    2 => 'getPoliticalData',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'sec-fetch-mode' => 'cors',
+  'origin' => 'http://localhost:8080',
+  'sec-fetch-site' => 'same-site',
+  'referer' => 'http://localhost:8080/admin/home/chart',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'en-US,en;q=0.9,zh-CN;q=0.8,zh-TW;q=0.7,zh;q=0.6',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\index\controller\User->getPoliticalData[ C:\xampp\htdocs\vue_practice\server\application\index\controller\User.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.004515s ] mysql:host=127.0.0.1;port=3306;dbname=data;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.022010s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `political` = '中共党员' LIMIT 1 [ RunTime:0.000577s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `political` = '中共预备党员' LIMIT 1 [ RunTime:0.000379s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `political` = '共青团员' LIMIT 1 [ RunTime:0.000526s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `political` = '民革党员' LIMIT 1 [ RunTime:0.000369s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `political` = '民盟盟员' LIMIT 1 [ RunTime:0.000366s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `political` = '民建会员' LIMIT 1 [ RunTime:0.000520s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `political` = '民进会员' LIMIT 1 [ RunTime:0.000349s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `political` = '农工党党员' LIMIT 1 [ RunTime:0.000318s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `political` = '致公党党员' LIMIT 1 [ RunTime:0.000413s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `political` = '九三学社社员' LIMIT 1 [ RunTime:0.000390s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `political` = '台盟盟员' LIMIT 1 [ RunTime:0.000356s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `political` = '无党派人士' LIMIT 1 [ RunTime:0.001675s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `user` WHERE  `political` = '群众' LIMIT 1 [ RunTime:0.000854s ]
+---------------------------------------------------------------
+[ 2019-08-12T15:12:59+08:00 ] 0.0.0.0 GET localhost/vue_practice/server/public/index.php/index/project/readsec?id=3
+[运行时间：0.093262s] [吞吐率：10.72req/s] [内存消耗：2,486.53kb] [文件加载：40]
+[ info ] [ LANG ] C:\xampp\htdocs\vue_practice\server\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'project',
+    2 => 'readsec',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'sec-fetch-mode' => 'cors',
+  'origin' => 'http://localhost:8080',
+  'sec-fetch-site' => 'same-site',
+  'referer' => 'http://localhost:8080/admin/home/pdisplay',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'en-US,en;q=0.9,zh-CN;q=0.8,zh-TW;q=0.7,zh;q=0.6',
+)
+[ info ] [ PARAM ] array (
+  'id' => '3',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\index\controller\Project->readsec[ C:\xampp\htdocs\vue_practice\server\application\index\controller\Project.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.005235s ] mysql:host=127.0.0.1;port=3306;dbname=data;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `project` [ RunTime:0.030965s ]
+[ sql ] [ SQL ] SELECT * FROM `project` WHERE  `sid` = 3 [ RunTime:0.000800s ]
+---------------------------------------------------------------
+[ 2019-08-12T15:13:00+08:00 ] 0.0.0.0 GET localhost/vue_practice/server/public/index.php/index/project/readsec?id=2
+[运行时间：0.059494s] [吞吐率：16.81req/s] [内存消耗：2,488.09kb] [文件加载：40]
+[ info ] [ LANG ] C:\xampp\htdocs\vue_practice\server\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'project',
+    2 => 'readsec',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'sec-fetch-mode' => 'cors',
+  'origin' => 'http://localhost:8080',
+  'sec-fetch-site' => 'same-site',
+  'referer' => 'http://localhost:8080/admin/home/pdisplay',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'en-US,en;q=0.9,zh-CN;q=0.8,zh-TW;q=0.7,zh;q=0.6',
+)
+[ info ] [ PARAM ] array (
+  'id' => '2',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\index\controller\Project->readsec[ C:\xampp\htdocs\vue_practice\server\application\index\controller\Project.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000850s ] mysql:host=127.0.0.1;port=3306;dbname=data;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `project` [ RunTime:0.028203s ]
+[ sql ] [ SQL ] SELECT * FROM `project` WHERE  `sid` = 2 [ RunTime:0.000487s ]

@@ -1,0 +1,2 @@
+webpackJsonp([1],{"k8/6":function(t,e,n){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var r={render:function(){var t=this.$createElement,e=this._self._c||t;return e("v-container",[e("div",[this._v("404 页面不存在")]),e("v-btn",{attrs:{dark:"dark",color:"primary"},on:{click:this.goback}},[this._v("返回")])],1)},staticRenderFns:[]},i=n("VU/8")({data:function(){return{}},methods:{goback:function(){this.$router.go(-1)}}},r,!1,null,null,null);e.default=i.exports}});
+//# sourceMappingURL=1.f68b04ccd36a9b278a7d.js.map
