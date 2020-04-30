@@ -15,7 +15,7 @@
     "babel-polyfill": "^6.26.0",
     "echarts": "^4.2.1",
     "html2canvas": "^1.0.0-rc.3",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "js-md5": "^0.7.3",
     "jspdf": "^1.5.3",
     "lodash": "^4.17.15",
